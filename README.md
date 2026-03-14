@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Mohit Malik
 
-<!--
-**MohitMalik332/MohitMalik332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Java + Spring Boot + React)
 
-Here are some ideas to get you started:
+📍 Currently building React Mini Projects  
+🚀 Learning Full Stack Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- React.js
+- MySQL
+- JavaScript
+- HTML / CSS
+
+---
+
+## 📌 Current Projects
+
+🔹 React Counter App  
+🔹 React Todo App  
+🔹 React Routing Project  
+
+(More projects coming soon)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (Add your LinkedIn link here)
+Email: (Add your email here)
