@@ -30,5 +30,5 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/in/mohit-malik-a70872266/
 Email: (Add your email here)
