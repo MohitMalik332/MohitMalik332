@@ -31,4 +31,5 @@
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/mohit-malik-a70872266/
-Email: (Add your email here)
+
+Email: malikmohit332@gmail.com
