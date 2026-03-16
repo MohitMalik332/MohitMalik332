@@ -21,7 +21,7 @@
 ## 📌 Current Projects
 
 🔹 React Counter App  
-🔹 React Todo App  
+🔹 React Todo App _ https://mohitmalik332.github.io/react-todo-app/
 🔹 React Routing Project  
 
 (More projects coming soon)
