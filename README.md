@@ -2,9 +2,6 @@
 
 💻 Full Stack Developer (Java + Spring Boot + React)
 
-📍 Currently building React Mini Projects  
-🚀 Learning Full Stack Development  
-
 ---
 
 ## 🛠 Tech Stack
