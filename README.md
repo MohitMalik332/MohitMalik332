@@ -21,7 +21,8 @@
 
 🔹 React Todo App _ https://mohitmalik332.github.io/react-todo-app/
 
-🔹 React Routing Project  
+🔹 React Routing App _ https://mohitmalik332.github.io/react-routing-app/
+
 
 (More projects coming soon)
 
