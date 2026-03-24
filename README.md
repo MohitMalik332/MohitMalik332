@@ -23,6 +23,8 @@
 
 🔹 React Routing App _ https://mohitmalik332.github.io/react-routing-app/
 
+🔹 Form Handling App _ https://mohitmalik332.github.io/form-handling-app/
+
 
 (More projects coming soon)
 
