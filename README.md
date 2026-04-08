@@ -25,6 +25,8 @@
 
 🔹 Form Handling App _ https://mohitmalik332.github.io/form-handling-app/
 
+🔹 User Directory API App _ https://mohitmalik332.github.io/user-directory/
+
 
 (More projects coming soon)
 
