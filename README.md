@@ -12,6 +12,7 @@
 - MySQL
 - JavaScript
 - HTML / CSS
+- Data Structures
 
 ---
 
